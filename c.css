@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: wheat;
+    font-size: xx-large;
+}
+
+p {
+    font-size: large;
+}
